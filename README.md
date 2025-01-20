@@ -1,4 +1,10 @@
-# Unity Game Project - Player Statistics & Reviews
+<div align="center">
+  <a href="https://www.wf3.fr/" target="_blank">
+    <img src="https://img.gothru.org/283/3821330491768879313/overlay/assets/20201210050148.Efu4dY.png?save=optimize" alt="Logo" width="200">
+  </a>
+</div>
+
+# Unity Game Project - Player Statistics & Reviews - Valerio Castelli
 
 ## Description
 Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'affichage des statistiques des joueurs et la soumission d'avis. L'application intègre une base de données MySQL et un webservice PHP pour la gestion des données.
@@ -6,6 +12,8 @@ Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'
 ## Liens utiles
 - Backend Repository: [Repository du backend](https://github.com/CSTLLI/unity-app-backend)
 - Maquette Figma: [Maquette utilisée ](https://www.figma.com/design/focMglPILeQpcCTwM2TtkO/Space-Operators?node-id=0-1&node-type=canvas&t=splO4TlCDH9JKZJT-0)
+- Database (inclut dans le repo backend) : [Database](https://github.com/CSTLLI/unity-app-backend/blob/main/database-setup.sql)
+- Collection PostMan (inclut dans le repo backend) : [Collection](https://github.com/CSTLLI/unity-app-backend/blob/main/UnityApp1.postman_collection.json)
 
 ## Fonctionnalités principales
 
