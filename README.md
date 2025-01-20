@@ -12,8 +12,8 @@ Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'
 ## Liens utiles
 - Backend Repository: [Repository du backend](https://github.com/CSTLLI/unity-app-backend)
 - Maquette Figma: [Maquette utilisée ](https://www.figma.com/design/focMglPILeQpcCTwM2TtkO/Space-Operators?node-id=0-1&node-type=canvas&t=splO4TlCDH9JKZJT-0)
-- Database (inclut dans le repo backend) : [Database](https://github.com/CSTLLI/unity-app-backend/blob/main/database-setup.sql)
-- Collection PostMan (inclut dans le repo backend) : [Collection](https://github.com/CSTLLI/unity-app-backend/blob/main/UnityApp1.postman_collection.json)
+- Database (inclus dans le repo backend) : [Database](https://github.com/CSTLLI/unity-app-backend/blob/main/database-setup.sql)
+- Collection PostMan (inclus dans le repo backend) : [Collection](https://github.com/CSTLLI/unity-app-backend/blob/main/UnityApp1.postman_collection.json)
 
 ## Fonctionnalités principales
 
