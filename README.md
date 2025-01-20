@@ -21,7 +21,7 @@ Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'
 - Interface de connexion avec Canvas/UI Tools
 - Formulaire de saisie (nom d'utilisateur et mot de passe)
 - Cryptage du mot de passe
-- Authentification via requêtes HTTP vers le webservice PHP
+- Authentification via requêtes HTTP vers le webservice NodeJS
 - Vérification des credentials et redirection vers la scène 2 si succès
 
 ### Scène 2 : Statistiques Joueur
@@ -44,7 +44,7 @@ Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'
 
 ## Technologies Utilisées
 - Unity (interface et logique client)
-- PHP (webservice backend)
+- NodeJS (webservice backend)
 - MySQL (base de données)
 - UnityWebRequest (communication HTTP)
 
@@ -52,7 +52,7 @@ Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'
 
 1. Cloner le repository
 2. Configurer la base de données MySQL avec les scripts fournis (fichier de la database dans le repo backend) 
-3. Déployer le webservice PHP
+3. Déployer le webservice NodeJS 
 4. Configurer les endpoints dans Unity
 
 ## Endpoints API
