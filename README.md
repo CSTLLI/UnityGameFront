@@ -32,7 +32,8 @@ Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'
 ### Scène 3 : Zone de Commentaires
 - Interface de saisie des avis
 - Système d'envoi des commentaires vers la base de données
-- Utilisation des requêtes POST/GET avec UnityWebRequest
+- Utilisation des requêtes POST/GET/PUT avec UnityWebRequest
+- Modification du commentaire s'il existe
 
 ## Structure de la Base de Données
 
