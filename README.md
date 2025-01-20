@@ -55,6 +55,8 @@ Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'
 3. Déployer le webservice NodeJS 
 4. Configurer les endpoints dans Unity
 
+5. Connexion avec l'user par défaut (user: CCI, mot de passe: root)
+
 ## Endpoints API
 
 ### Authentification
