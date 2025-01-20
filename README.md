@@ -7,7 +7,7 @@
 # Unity Game Project - Player Statistics & Reviews - Valerio Castelli
 
 ## Description
-Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'affichage des statistiques des joueurs et la soumission d'avis. L'application intègre une base de données MySQL et un webservice PHP pour la gestion des données.
+Application de jeu Unity en 3 scènes permettant la gestion des utilisateurs, l'affichage des statistiques des joueurs et la soumission d'avis. L'application intègre une base de données MySQL et un webservice Express (NodeJs) pour la gestion des données.
 
 ## Liens utiles
 - Backend Repository: [Repository du backend](https://github.com/CSTLLI/unity-app-backend)
